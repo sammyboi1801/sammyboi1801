@@ -20,11 +20,8 @@ When I’m not coding:
 I believe **good code should think, adapt, and surprise you.**
 
 ---
-
 🌐 **Portfolio:** [samselva.xyz](samselva.xyz)  
 📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
-
-Feel free to reach out — I’m always open.
 ---
 
 <p align="center">
