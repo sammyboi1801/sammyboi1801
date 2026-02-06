@@ -21,44 +21,10 @@ I believe **good code should think, adapt, and surprise you.**
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡 **SentinelAI**
-An AI system that lives in your terminal.
-
-### 📘 **Diffusion vs Auto-Regressive Models**
-Research notebooks comparing diffusion-based approaches against classic AR transformers for NMT.
-
-### 🏆 **Welding Defect Detection**
-2nd Prize @ IIT Techfest ’22  
-Real-world ML system built for Godrej Aerospace to predict welding defects.
-
-### 🎮 **NEAT Ping-Pong AI**
-Evolutionary algorithms teaching agents to play Ping-Pong — survival of the smartest.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,html,css,git" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-If you want to:
-- Collaborate on AI/ML projects  
-- Talk about research ideas  
-- Share music  
-- Or send a terrible joke  
-
 🌐 **Portfolio:** [samselva.xyz](samselva.xyz)  
 📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
 
 Feel free to reach out — I’m always open.
-
 ---
 
 <p align="center">
