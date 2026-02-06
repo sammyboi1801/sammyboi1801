@@ -19,10 +19,10 @@ When I’m not coding:
 
 I believe **good code should think, adapt, and surprise you.**
 
----
+
 🌐 **Portfolio:** [samselva.xyz](samselva.xyz)  
 📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
----
+
 
 <p align="center">
   <em>“Trying to make a mark in this huge cosmos by just being myself.”</em>
