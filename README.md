@@ -1,15 +1,69 @@
-### Hi there 👋, My name is Sam:)
-#### I am an ML Enthusiast
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sam+Selvaraj;AI+%7C+ML+%7C+Deep+Learning+Engineer;Building+intelligent+systems+with+code+and+curiosity" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
-Apart from laughing at dumb jokes, you'll find my unhealthy obsession with AI peculiar. Trying to make a mark in this huge cosmos by just being myself. You'll also find me engaging in deep philosophical conversations.
-I have a deep appreciation for music and spend most of my time on my piano or guitar :)
+## 👋 About Me
 
-I love neural networks... 
+I’m **Sam** - an AI engineer who enjoys building intelligent systems,  
+breaking them apart to understand *why* they work, and occasionally questioning reality while training neural networks.
 
-Always open to music suggestions and stupid jokes ;)
+When I’m not coding:
+- 🎹 I’m playing the piano or guitar  
+- 🧠 Diving into philosophical conversations  
+- 🤖 Thinking about AI like it’s a living organism  
 
-Skills: ML / DL / HTML / CSS / Python 
+I believe **good code should think, adapt, and surprise you.**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡 **SentinelAI**
+An AI system that lives in your terminal.
+
+### 📘 **Diffusion vs Auto-Regressive Models**
+Research notebooks comparing diffusion-based approaches against classic AR transformers for NMT.
+
+### 🏆 **Welding Defect Detection**
+2nd Prize @ IIT Techfest ’22  
+Real-world ML system built for Godrej Aerospace to predict welding defects.
+
+### 🎮 **NEAT Ping-Pong AI**
+Evolutionary algorithms teaching agents to play Ping-Pong — survival of the smartest.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,html,css,git" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you want to:
+- Collaborate on AI/ML projects  
+- Talk about research ideas  
+- Share music  
+- Or send a terrible joke  
+
+🌐 **Portfolio:** [samselva.xyz](samselva.xyz)  
+📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
+
+Feel free to reach out — I’m always open.
+
+---
+
+<p align="center">
+  <em>“Trying to make a mark in this huge cosmos by just being myself.”</em>
+</p>
 
 
 <!-- 
