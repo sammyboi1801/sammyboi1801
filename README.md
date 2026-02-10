@@ -20,7 +20,7 @@ When I’m not coding:
 I believe **good code should think, adapt, and surprise you.**
 
 
-🌐 **Portfolio:** [samselva.xyz](samselva.xyz)  
+🌐 **Portfolio:** [samselva.xyz](https://www.samselva.xyz)  
 📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
 
 
