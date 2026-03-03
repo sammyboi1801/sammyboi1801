@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sam+Selvaraj;AI+%7C+ML+%7C+Deep+Learning+Engineer;Building+intelligent+systems+with+code+and+curiosity" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+<img width="2847" height="701" alt="image" src="https://github.com/user-attachments/assets/4cb997b5-c311-4a06-b534-4587a24eb694" />
+
 
 ## 👋 About Me
 
@@ -15,7 +14,7 @@ breaking them apart to understand *why* they work, and occasionally questioning 
 When I’m not coding:
 - 🎹 I’m playing the piano or guitar  
 - 🧠 Diving into philosophical conversations  
-- 🤖 Thinking about AI like it’s a living organism  
+- 🚶‍♂️ Taking a screen break and exploring the city
 
 I believe **good code should think, adapt, and surprise you.**
 
@@ -23,6 +22,9 @@ I believe **good code should think, adapt, and surprise you.**
 🌐 **Portfolio:** [samselva.xyz](https://www.samselva.xyz)  
 📧 **Email:** [samselvaraj1801@gmail.com](mailto:samselvaraj1801@gmail.com)
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 <p align="center">
   <em>“Trying to make a mark in this huge cosmos by just being myself.”</em>
